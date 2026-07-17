@@ -5,7 +5,7 @@ Name: Two Sum
 Platform: LeetCode
 Difficulty: Easy
 Approach: HashMap
-Time Complexity: O(n)
+Time tComplexity: O(n)
 Space Complexity: O(n)
 
 Problem 2
